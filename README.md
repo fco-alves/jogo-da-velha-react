@@ -8,7 +8,4 @@
 
 <h2>Demo</h2>
 
-<video width="320" height="240" align="center" controls>
-  <source src="./assets/video.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<img src="./assets/video.gif" align="center">
