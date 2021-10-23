@@ -32,9 +32,9 @@ export default class Navbar extends Component {
                 <ul id="slide-out" class="sidenav">
                     <li><div class="user-view">
                     <div class="background">
-                        <img src="./logo192.png"/>
+                        <img src="https://via.placeholder.com/1000"/>
                     </div>
-                    <a href="#user"><img class="circle" src="./logo512.png"/></a>
+                    <a href="#user"><img class="circle" src="./logo192.png"/></a>
                     <a href="#name"><span class="white-text name">John Doe</span></a>
                     <a href="#email"><span class="white-text email">jdandturk@gmail.com</span></a>
                     </div></li>
